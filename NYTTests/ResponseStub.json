@@ -1,0 +1,1294 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/98e31a6a-1107-546f-a68d-36df13ce9b24",
+      "url": "https://www.nytimes.com/2020/11/19/style/rudy-giuliani-hair.html",
+      "id": 100000007463764,
+      "asset_id": 100000007463764,
+      "source": "New York Times",
+      "published_date": "2020-11-19",
+      "updated": "2020-11-24 10:32:42",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Dyes and Dyestuffs;Hair;Giuliani, Rudolph W",
+      "column": null,
+      "byline": "By Jonah Engel Bromwich",
+      "type": "Article",
+      "title": "Whatever It Is, It’s Probably Not Hair Dye",
+      "abstract": "Hairdressers weigh in on Rudy Giuliani’s drip problem.",
+      "des_facet": [
+        "Dyes and Dyestuffs",
+        "Hair"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Giuliani, Rudolph W"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudolph W. Giuliani, President Trump’s personal attorney, at a news conference on Thursday about the results of the 2020 presidential election.",
+          "copyright": "Jonathan Ernst/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/19rudy-hair-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/19rudy-hair-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/19rudy-hair-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/394497c4-e159-5e93-a9ab-36e62dccb899",
+      "url": "https://www.nytimes.com/2020/11/17/health/coronavirus-immunity.html",
+      "id": 100000007456461,
+      "asset_id": 100000007456461,
+      "source": "New York Times",
+      "published_date": "2020-11-17",
+      "updated": "2020-11-22 11:17:17",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Immune System;Coronavirus (2019-nCoV);Antibodies;Vaccination and Immunization;SARS (Severe Acute Respiratory Syndrome);your-feed-science;La Jolla (Calif)",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "Immunity to the Coronavirus May Last Years, New Data Hint",
+      "abstract": "Blood samples from recovered patients suggest a powerful, long-lasting immune response, researchers reported.",
+      "des_facet": [
+        "Immune System",
+        "Coronavirus (2019-nCoV)",
+        "Antibodies",
+        "Vaccination and Immunization",
+        "SARS (Severe Acute Respiratory Syndrome)",
+        "your-feed-science"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "La Jolla (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Blood was drawn for a Covid-19 antibody test at the University of Arizona in Tucson earlier this year.",
+          "copyright": "Cheney Orr/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/17/science/17VIRUS-IMMUNE1/17VIRUS-IMMUNE1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/17/science/17VIRUS-IMMUNE1/17VIRUS-IMMUNE1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/17/science/17VIRUS-IMMUNE1/17VIRUS-IMMUNE1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/403637d5-d8f5-50be-ad38-417d13c15f23",
+      "url": "https://www.nytimes.com/2020/11/18/world/asia/covid-cleaning.html",
+      "id": 100000007366844,
+      "asset_id": 100000007366844,
+      "source": "New York Times",
+      "published_date": "2020-11-18",
+      "updated": "2020-11-23 09:18:26",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus Risks and Safety Concerns;Coronavirus (2019-nCoV);Cleaning Services;Hygiene and Cleanliness;Hong Kong",
+      "column": null,
+      "byline": "By Mike Ives and Apoorva Mandavilli",
+      "type": "Article",
+      "title": "The Coronavirus Is Airborne Indoors. Why Are We Still Scrubbing Surfaces?",
+      "abstract": "Scientists who initially warned about contaminated surfaces now say that the virus spreads primarily through inhaled droplets, and that there is little to no evidence that deep cleaning mitigates the threat indoors.",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)",
+        "Cleaning Services",
+        "Hygiene and Cleanliness"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Hong Kong"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People buying disinfectant at a shopping mall in Hong Kong.",
+          "copyright": "Lam Yik Fei for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/21/world/19virus-hk-hygiene03/19virus-hk-hygiene03-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/21/world/19virus-hk-hygiene03/merlin_180083316_747a5b09-7aff-43df-8741-786497b990bb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/21/world/19virus-hk-hygiene03/merlin_180083316_747a5b09-7aff-43df-8741-786497b990bb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4d6da2d9-6e3d-5c32-a7f3-9285dda2b6d6",
+      "url": "https://www.nytimes.com/2020/11/19/nyregion/trump-fraud-investigations-taxes.html",
+      "id": 100000007460324,
+      "asset_id": 100000007460324,
+      "source": "New York Times",
+      "published_date": "2020-11-19",
+      "updated": "2020-11-23 18:25:04",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Trump Tax Returns;Income Tax;Tax Evasion;United States Politics and Government;Consultants;Trump, Donald J;Trump, Ivanka;Trump, Eric F (1984- );James, Letitia;Vance, Cyrus R Jr;Cohen, Michael D (1966- );Clifford, Stephanie (1979- );Internal Revenue Service;Trump Organization;Trump, Donald J, Foundation;TTT Consulting LLC",
+      "column": null,
+      "byline": "By Danny Hakim, Mike McIntire, William K. Rashbaum and Ben Protess",
+      "type": "Article",
+      "title": "Trump Tax Write-Offs Are Ensnared in 2 New York Fraud Investigations",
+      "abstract": "Inquiries into the president and his businesses, one criminal and one civil, are now looking at tax deductions taken on consulting fees. Some of the payments appear to have gone to Ivanka Trump.",
+      "des_facet": [
+        "Trump Tax Returns",
+        "Income Tax",
+        "Tax Evasion",
+        "United States Politics and Government",
+        "Consultants"
+      ],
+      "org_facet": [
+        "Internal Revenue Service",
+        "Trump Organization",
+        "Trump, Donald J, Foundation",
+        "TTT Consulting LLC"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Trump, Ivanka",
+        "Trump, Eric F (1984- )",
+        "James, Letitia",
+        "Vance, Cyrus R Jr",
+        "Cohen, Michael D (1966- )",
+        "Clifford, Stephanie (1979- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eric, Ivanka and Donald Trump Jr. with their father at a hotel event in Vancouver, British Columbia. Ms. Trump seems to have been paid as a consultant for the project while also working for the family business.",
+          "copyright": "Andy Clark/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/18/multimedia/18NYAG-Trump/18NYAG-Trump-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/18/multimedia/18NYAG-Trump/18NYAG-Trump-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/18/multimedia/18NYAG-Trump/18NYAG-Trump-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f5ca0778-3bd9-5336-aba7-b9d9887a943c",
+      "url": "https://www.nytimes.com/2020/11/16/opinion/jared-ivanka-trump.html",
+      "id": 100000007455770,
+      "asset_id": 100000007455770,
+      "source": "New York Times",
+      "published_date": "2020-11-16",
+      "updated": "2020-11-19 14:45:52",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Kushner, Jared;Trump, Ivanka;Trump, Donald J",
+      "column": null,
+      "byline": "By Frank Bruni",
+      "type": "Article",
+      "title": "Was It Worth It, Jared and Ivanka?",
+      "abstract": "The glossiest grifters become Vuitton vagabonds.",
+      "des_facet": [
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kushner, Jared",
+        "Trump, Ivanka",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jared and Ivanka were the Faustian poster couple of the Trump presidency, the king and queen of the principle-torching prom.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/18/opinion/18bruniprint/15bruni1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/18/opinion/18bruniprint/15bruni1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/18/opinion/18bruniprint/15bruni1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0e9f1b56-ca77-5200-bdf2-ee5bc42f4b54",
+      "url": "https://www.nytimes.com/2020/11/23/us/politics/biden-nominees.html",
+      "id": 100000007467947,
+      "asset_id": 100000007467947,
+      "source": "New York Times",
+      "published_date": "2020-11-23",
+      "updated": "2020-11-24 08:24:16",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Appointments and Executive Changes;Presidential Transition (US);United States Politics and Government;United States International Relations;United Nations Framework Convention on Climate Change;Minorities;Women and Girls;Hispanic-Americans;Biden, Joseph R Jr;Yellen, Janet L;Mayorkas, Alejandro;Haines, Avril D;Kerry, John;Blinken, Antony J;Sullivan, Jacob J (1976- );Thomas-Greenfield, Linda;Treasury Department;State Department;Homeland Security Department;Office of the Director of National Intelligence;National Security Council",
+      "column": null,
+      "byline": "By Michael Crowley and Jeanna Smialek",
+      "type": "Article",
+      "title": "Biden Will Nominate First Women to Lead Treasury and Intelligence, and First Latino to Run Homeland Security",
+      "abstract": "John Kerry, the former secretary of state, will be the international climate czar, signaling the new administration’s commitment to fighting climate change.",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "Presidential Transition (US)",
+        "United States Politics and Government",
+        "United States International Relations",
+        "United Nations Framework Convention on Climate Change",
+        "Minorities",
+        "Women and Girls",
+        "Hispanic-Americans"
+      ],
+      "org_facet": [
+        "Treasury Department",
+        "State Department",
+        "Homeland Security Department",
+        "Office of the Director of National Intelligence",
+        "National Security Council"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Yellen, Janet L",
+        "Mayorkas, Alejandro",
+        "Haines, Avril D",
+        "Kerry, John",
+        "Blinken, Antony J",
+        "Sullivan, Jacob J (1976- )",
+        "Thomas-Greenfield, Linda"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Janet L. Yellen, the former Federal Reserve chair, will be thrust into negotiating for more aid with what is expected to be a divided Congress.",
+          "copyright": "Lexey Swall for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23dc-biden-cabinet-yellin/merlin_129510059_c2272a86-3d2c-4048-b25f-78cd1cba6f9b-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23dc-biden-cabinet-yellin/merlin_129510059_c2272a86-3d2c-4048-b25f-78cd1cba6f9b-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23dc-biden-cabinet-yellin/merlin_129510059_c2272a86-3d2c-4048-b25f-78cd1cba6f9b-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d69f4b25-5e2c-527f-b481-77ce3fadfb00",
+      "url": "https://www.nytimes.com/2020/11/18/health/pfizer-covid-vaccine.html",
+      "id": 100000007454844,
+      "asset_id": 100000007454844,
+      "source": "New York Times",
+      "published_date": "2020-11-18",
+      "updated": "2020-11-22 11:17:26",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Clinical Trials;Vaccination and Immunization;Drugs (Pharmaceuticals);Coronavirus (2019-nCoV);RNA (Ribonucleic Acid);your-feed-healthcare;BioNTech SE;Pfizer Inc;Food and Drug Administration;Moderna Inc",
+      "column": null,
+      "byline": "By Katie Thomas",
+      "type": "Article",
+      "title": "New Pfizer Results: Coronavirus Vaccine Is Safe and 95% Effective",
+      "abstract": "The company said it planned to apply for emergency approval from the Food and Drug Administration “within days.”",
+      "des_facet": [
+        "your-feed-science",
+        "Clinical Trials",
+        "Vaccination and Immunization",
+        "Drugs (Pharmaceuticals)",
+        "Coronavirus (2019-nCoV)",
+        "RNA (Ribonucleic Acid)",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "BioNTech SE",
+        "Pfizer Inc",
+        "Food and Drug Administration",
+        "Moderna Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pfizer and BioNTech’s trial has shattered all speed records for vaccine development.",
+          "copyright": "Pfizer, via Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/17/science/00HFO-PFIZER1/00HFO-PFIZER1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/17/science/00HFO-PFIZER1/00HFO-PFIZER1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/17/science/00HFO-PFIZER1/00HFO-PFIZER1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d37124da-40b1-58ed-80f7-d9960a079836",
+      "url": "https://www.nytimes.com/2020/11/19/opinion/trump-supporters.html",
+      "id": 100000007450265,
+      "asset_id": 100000007450265,
+      "source": "New York Times",
+      "published_date": "2020-11-19",
+      "updated": "2020-11-23 13:05:21",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Race and Ethnicity;Discrimination;United States Politics and Government;Voting and Voters;Muslims and Islam;Muslim Americans;Trump, Donald J",
+      "column": null,
+      "byline": "By Wajahat Ali",
+      "type": "Article",
+      "title": "‘Reach Out to Trump Supporters,’ They Said. I Tried.",
+      "abstract": "I give up.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Race and Ethnicity",
+        "Discrimination",
+        "United States Politics and Government",
+        "Voting and Voters",
+        "Muslims and Islam",
+        "Muslim Americans"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Million MAGA March in Washington, last week.",
+          "copyright": "Jordan Gale for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/19/opinion/19ali-01/19ali-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/19/opinion/19ali-01/merlin_180034455_fffd4514-bb16-432c-a54f-fa54d2970cf7-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/19/opinion/19ali-01/merlin_180034455_fffd4514-bb16-432c-a54f-fa54d2970cf7-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f56455fc-5c79-5367-8e41-d1f3561ef489",
+      "url": "https://www.nytimes.com/2020/11/22/us/politics/biden-antony-blinken-secretary-of-state.html",
+      "id": 100000007461569,
+      "asset_id": 100000007461569,
+      "source": "New York Times",
+      "published_date": "2020-11-22",
+      "updated": "2020-11-23 11:25:44",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Appointments and Executive Changes;United States International Relations;United States Politics and Government;Presidential Transition (US);Biden, Joseph R Jr;Blinken, Antony J;Obama, Barack;State Department",
+      "column": null,
+      "byline": "By Lara Jakes, Michael Crowley and David E. Sanger",
+      "type": "Article",
+      "title": "Biden Chooses Antony Blinken, Defender of Global Alliances, as Secretary of State",
+      "abstract": "The president-elect is also expected to name Jake Sullivan, another close aide of his, as national security adviser, and Linda Thomas-Greenfield, a 35-year Foreign Service veteran, as his ambassador to the U.N.",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "United States International Relations",
+        "United States Politics and Government",
+        "Presidential Transition (US)"
+      ],
+      "org_facet": [
+        "State Department"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Blinken, Antony J",
+        "Obama, Barack"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Antony J. Blinken began his career at the State Department during the Clinton administration.",
+          "copyright": "Jose Luis Magana/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/23/us/politics/00dc-state-blinken-print/merlin_179822205_c7163a55-8518-42d3-a90f-11d21aa5e9fa-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/23/us/politics/00dc-state-blinken-print/merlin_179822205_c7163a55-8518-42d3-a90f-11d21aa5e9fa-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/23/us/politics/00dc-state-blinken-print/merlin_179822205_c7163a55-8518-42d3-a90f-11d21aa5e9fa-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f6c6c833-fd99-5de3-be73-54097cd1d097",
+      "url": "https://www.nytimes.com/2020/11/18/opinion/covid-halifax-nova-scotia-canada.html",
+      "id": 100000007451526,
+      "asset_id": 100000007451526,
+      "source": "New York Times",
+      "published_date": "2020-11-18",
+      "updated": "2020-11-19 20:18:35",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;Shutdowns (Institutional);Quarantines;Nova Scotia (Canada);Canada;Halifax (Nova Scotia)",
+      "column": null,
+      "byline": "By Stephanie Nolen",
+      "type": "Article",
+      "title": "I Am Living in a Covid-Free World Just a Few Hundred Miles From Manhattan",
+      "abstract": "Welcome to Nova Scotia, the land that proves that beating back the virus is possible.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Shutdowns (Institutional)",
+        "Quarantines"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Nova Scotia (Canada)",
+        "Canada",
+        "Halifax (Nova Scotia)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paul Atwood for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/18/opinion/18nolen/18nolen-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/18/opinion/18nolen/18nolen-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/18/opinion/18nolen/18nolen-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3c895c67-7ca7-5cc1-8315-308e7586ab38",
+      "url": "https://www.nytimes.com/2020/11/17/us/politics/giuliani-trump-election-pay.html",
+      "id": 100000007458706,
+      "asset_id": 100000007458706,
+      "source": "New York Times",
+      "published_date": "2020-11-17",
+      "updated": "2020-11-24 10:32:41",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Voter Fraud (Election Fraud);United States Politics and Government;Russian Interference in 2016 US Elections and Ties to Trump Associates;Giuliani, Rudolph W;Trump, Donald J;Biden, Joseph R Jr",
+      "column": null,
+      "byline": "By Michael S. Schmidt and Maggie Haberman",
+      "type": "Article",
+      "title": "Giuliani Is Said to Seek $20,000 a Day Payment for Trump Legal Work",
+      "abstract": "Last week, the president put the former New York mayor in charge of the court challenges to his loss in the election. Since then they have suffered nothing but setbacks.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Voter Fraud (Election Fraud)",
+        "United States Politics and Government",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Giuliani, Rudolph W",
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudolph W. Giuliani, President Trump’s personal lawyer, speaking about lawsuits on behalf of the Trump campaign this month in Philadelphia earlier. The president has put him in charge of all of his election-related litigation.",
+          "copyright": "Gabriela Bhaskar for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/17/us/politics/17dc-trump-rudy/17dc-trump-rudy-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/17/us/politics/17dc-trump-rudy/17dc-trump-rudy-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/17/us/politics/17dc-trump-rudy/17dc-trump-rudy-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8dfb74cf-c563-5101-8208-f59bd1aa0a36",
+      "url": "https://www.nytimes.com/2020/11/19/us/politics/trump-election.html",
+      "id": 100000007463745,
+      "asset_id": 100000007463745,
+      "source": "New York Times",
+      "published_date": "2020-11-19",
+      "updated": "2020-11-22 10:26:42",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Presidential Election of 1876;United States Politics and Government;State Legislatures;Electoral College;Absentee Voting;Voter Fraud (Election Fraud);Rumors and Misinformation;Trump, Donald J;Hayes, Rutherford Birchard;Biden, Joseph R Jr;Republican Party;Michigan;Arizona;Georgia",
+      "column": null,
+      "byline": "By David E. Sanger",
+      "type": "Article",
+      "title": "Trump’s Attempts to Overturn the Election Are Unparalleled in U.S. History",
+      "abstract": "The president’s push to prevent states from certifying electors and get legislators to override voters’ choice eclipses even the bitter 1876 election as an audacious use of brute political force.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Presidential Election of 1876",
+        "United States Politics and Government",
+        "State Legislatures",
+        "Electoral College",
+        "Absentee Voting",
+        "Voter Fraud (Election Fraud)",
+        "Rumors and Misinformation"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Hayes, Rutherford Birchard",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "Michigan",
+        "Arizona",
+        "Georgia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump’s strategy has become clear over two days of increasingly frenetic action by an executive who is weeks away from losing power.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/19/us/politics/19dc-assess/merlin_179990463_82cabfc9-b554-499e-9eee-722808c61eed-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/19/us/politics/19dc-assess/merlin_179990463_82cabfc9-b554-499e-9eee-722808c61eed-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/19/us/politics/19dc-assess/merlin_179990463_82cabfc9-b554-499e-9eee-722808c61eed-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/69639ca8-1723-5a5f-bbe8-77f3924c1195",
+      "url": "https://www.nytimes.com/2020/11/17/us/politics/michigan-certify-election-results.html",
+      "id": 100000007460138,
+      "asset_id": 100000007460138,
+      "source": "New York Times",
+      "published_date": "2020-11-17",
+      "updated": "2020-11-23 09:38:47",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Voter Fraud (Election Fraud);Black People;Discrimination;Politics and Government;United States Politics and Government;Trump, Donald J;Biden, Joseph R Jr;Republican Party;Michigan;Wayne County (Mich);Detroit (Mich)",
+      "column": null,
+      "byline": "By Kathleen Gray, Jim Rutenberg and Nick Corasaniti",
+      "type": "Article",
+      "title": "Michigan Republicans Backtrack After Refusing to Certify Election Results",
+      "abstract": "G.O.P. members of the elections board in Wayne County, which includes Detroit and is heavily Democratic, reversed their decision to hold up approval of Joe Biden’s victory after an outcry.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Voter Fraud (Election Fraud)",
+        "Black People",
+        "Discrimination",
+        "Politics and Government",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "Michigan",
+        "Wayne County (Mich)",
+        "Detroit (Mich)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Election workers counting absentee ballots in Detroit this month. The elections board in surrounding Wayne County initially deadlocked 2 to 2, with Republicans refusing to certify the county’s results.",
+          "copyright": "Brittany Greeson for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/17/us/politics/17MICHIGAN/merlin_179564676_3f920dfd-4ad3-49c8-a5c1-196b0a1a8f4d-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/17/us/politics/17MICHIGAN/merlin_179564676_3f920dfd-4ad3-49c8-a5c1-196b0a1a8f4d-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/17/us/politics/17MICHIGAN/merlin_179564676_3f920dfd-4ad3-49c8-a5c1-196b0a1a8f4d-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/819ac47b-b060-5689-a5fe-c10895731fa4",
+      "url": "https://www.nytimes.com/2020/11/18/nyregion/nyc-schools-covid.html",
+      "id": 100000007369967,
+      "asset_id": 100000007369967,
+      "source": "New York Times",
+      "published_date": "2020-11-18",
+      "updated": "2020-11-23 06:05:04",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Shutdowns (Institutional);Coronavirus (2019-nCoV);Disease Rates;Education (K-12);E-Learning;Workplace Hazards and Violations;Organized Labor;de Blasio, Bill;Cuomo, Andrew M;United Federation of Teachers;New York City;New York State",
+      "column": null,
+      "byline": "By Eliza Shapiro",
+      "type": "Article",
+      "title": "New York City to Close Public Schools Again as Virus Cases Rise",
+      "abstract": "In a big setback for the city’s recovery, the nation’s largest district will return to all-remote learning.",
+      "des_facet": [
+        "Shutdowns (Institutional)",
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Education (K-12)",
+        "E-Learning",
+        "Workplace Hazards and Violations",
+        "Organized Labor"
+      ],
+      "org_facet": [
+        "United Federation of Teachers"
+      ],
+      "per_facet": [
+        "de Blasio, Bill",
+        "Cuomo, Andrew M"
+      ],
+      "geo_facet": [
+        "New York City",
+        "New York State"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students leaving Public School 110 in Corona, Queens, on Wednesday. New York City’s schools had been open for in-person instruction for just under eight weeks.",
+          "copyright": "Anna Watts for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/18/nyregion/18nyvirus-schools5pm/18nyvirus-schools5pm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/18/nyregion/18nyvirus-schools5pm/merlin_180181929_3df67be1-ea64-4a65-bfae-614b1b911c79-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/18/nyregion/18nyvirus-schools5pm/merlin_180181929_3df67be1-ea64-4a65-bfae-614b1b911c79-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7d0a0eb2-08a0-5710-a505-69b7a521109e",
+      "url": "https://www.nytimes.com/2020/11/20/us/politics/Tucker-Carlson-trump.html",
+      "id": 100000007466397,
+      "asset_id": 100000007466397,
+      "source": "New York Times",
+      "published_date": "2020-11-20",
+      "updated": "2020-11-23 15:46:49",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Television;Voter Fraud (Election Fraud);Conspiracy Theories;Presidential Election of 2020;Rumors and Misinformation;News and News Media;Conservatism (US Politics);Carlson, Tucker;Powell, Sidney (Attorney);Trump, Donald J;Fox News Channel;Republican Party",
+      "column": null,
+      "byline": "By Jeremy W. Peters",
+      "type": "Article",
+      "title": "Tucker Carlson Dared Question a Trump Lawyer. The Backlash Was Quick.",
+      "abstract": "The president’s allies quickly closed ranks behind Sidney Powell and her pro-Trump conspiracy theory, accusing the Fox host of betrayal.",
+      "des_facet": [
+        "Television",
+        "Voter Fraud (Election Fraud)",
+        "Conspiracy Theories",
+        "Presidential Election of 2020",
+        "Rumors and Misinformation",
+        "News and News Media",
+        "Conservatism (US Politics)"
+      ],
+      "org_facet": [
+        "Fox News Channel",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Carlson, Tucker",
+        "Powell, Sidney (Attorney)",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sidney Powell, an election lawyer for President Trump, has laid out a conspiracy theory that voting machines were hacked and millions of votes were stolen from the president.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/21/us/20conservative-media/21dc-lawsuits-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/21/us/20conservative-media/merlin_180237978_467ba8af-8fee-4ac1-adf5-484f22e3f1f2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/21/us/20conservative-media/merlin_180237978_467ba8af-8fee-4ac1-adf5-484f22e3f1f2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/90c35d9c-d5da-5baa-b862-d102e9d0c70f",
+      "url": "https://www.nytimes.com/2020/11/16/us/politics/trump-iran-nuclear.html",
+      "id": 100000007457643,
+      "asset_id": 100000007457643,
+      "source": "New York Times",
+      "published_date": "2020-11-16",
+      "updated": "2020-11-18 09:32:43",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States International Relations;Nuclear Weapons;Uranium;Stockpiling;Embargoes and Sanctions;United States Politics and Government;Defense and Military Forces;Trump, Donald J;Pence, Mike;Pompeo, Mike;International Atomic Energy Agency;Defense Department;Iran;Natanz (Iran);Israel;Iraq",
+      "column": null,
+      "byline": "By Eric Schmitt, Maggie Haberman, David E. Sanger, Helene Cooper and Lara Jakes",
+      "type": "Article",
+      "title": "Trump Sought Options for Attacking Iran to Stop Its Growing Nuclear Program",
+      "abstract": "The president was dissuaded from moving ahead with a strike by advisers who warned that it could escalate into a broader conflict in his last weeks in office.",
+      "des_facet": [
+        "United States International Relations",
+        "Nuclear Weapons",
+        "Uranium",
+        "Stockpiling",
+        "Embargoes and Sanctions",
+        "United States Politics and Government",
+        "Defense and Military Forces"
+      ],
+      "org_facet": [
+        "International Atomic Energy Agency",
+        "Defense Department"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Pence, Mike",
+        "Pompeo, Mike"
+      ],
+      "geo_facet": [
+        "Iran",
+        "Natanz (Iran)",
+        "Israel",
+        "Iraq"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Mike Pence and Secretary of State Mike Pompeo warned President Trump against a strike on Iran and described the potential risks of military escalation.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/16/us/politics/16dc-military1/16dc-military1-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/16/us/politics/16dc-military1/16dc-military1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/16/us/politics/16dc-military1/16dc-military1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/69d87fc8-c7b7-52b0-b8d4-eeb3f95afec4",
+      "url": "https://www.nytimes.com/2020/11/17/magazine/trump-investigations-criminal-prosecutions.html",
+      "id": 100000007449132,
+      "asset_id": 100000007449132,
+      "source": "New York Times",
+      "published_date": "2020-11-17",
+      "updated": "2020-11-22 15:34:08",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Russian Interference in 2016 US Elections and Ties to Trump Associates;Frauds and Swindling;Tax Evasion;Campaign Finance;Trump, Donald J",
+      "column": null,
+      "byline": "By Jonathan Mahler",
+      "type": "Article",
+      "title": "Can America Restore the Rule of Law Without Prosecuting Trump?",
+      "abstract": "Donald Trump’s potential criminal liability is the key to understanding his presidency. When he leaves office, it will present the country with a historic dilemma.",
+      "des_facet": [
+        "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "Frauds and Swindling",
+        "Tax Evasion",
+        "Campaign Finance"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/16/magazine/mag-trumplitigation-homepage/mag-trumplitigation-homepage-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/16/magazine/mag-trumplitigation-homepage/mag-trumplitigation-homepage-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/16/magazine/mag-trumplitigation-homepage/mag-trumplitigation-homepage-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c91219f5-7090-5281-9550-04c2143721ef",
+      "url": "https://www.nytimes.com/2020/11/19/business/economy/mnuchin-fed-emergency-programs.html",
+      "id": 100000007464153,
+      "asset_id": 100000007464153,
+      "source": "New York Times",
+      "published_date": "2020-11-19",
+      "updated": "2020-11-20 02:59:21",
+      "section": "Business",
+      "subsection": "Economy",
+      "nytdsection": "business",
+      "adx_keywords": "Credit and Debt;Federal Aid (US);United States Politics and Government;Coronavirus (2019-nCoV);Mnuchin, Steven T;Federal Reserve System;Treasury Department",
+      "column": null,
+      "byline": "By Jeanna Smialek and Alan Rappeport",
+      "type": "Article",
+      "title": "Mnuchin to End Key Fed Emergency Programs, Limiting Biden",
+      "abstract": "The Treasury Department asked the Federal Reserve to return unused funds, downsizing the next secretary’s ability to restart the economic support.",
+      "des_facet": [
+        "Credit and Debt",
+        "Federal Aid (US)",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Federal Reserve System",
+        "Treasury Department"
+      ],
+      "per_facet": [
+        "Mnuchin, Steven T"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steven Mnuchin, the Treasury secretary, at the White House in October. He said he would not extend emergency loan programs that are set to expire at the end of the year.",
+          "copyright": "Stefani Reynolds for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/20/us/20dc-fedtreasury-print1/19dc-fedtreasury-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/20/us/20dc-fedtreasury-print1/19dc-fedtreasury-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/20/us/20dc-fedtreasury-print1/19dc-fedtreasury-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d3314c66-a6dc-571c-be55-c871e610777a",
+      "url": "https://www.nytimes.com/2020/11/16/health/Covid-moderna-vaccine.html",
+      "id": 100000007448298,
+      "asset_id": 100000007448298,
+      "source": "New York Times",
+      "published_date": "2020-11-16",
+      "updated": "2020-11-22 11:17:06",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Vaccination and Immunization;Drugs (Pharmaceuticals);Coronavirus (2019-nCoV);RNA (Ribonucleic Acid);Research;your-feed-healthcare;Moderna Inc;Biomedical Advanced Research and Development Authority;Food and Drug Administration;National Institute of Allergy and Infectious Diseases;Pfizer Inc",
+      "column": null,
+      "byline": "By Denise Grady",
+      "type": "Article",
+      "title": "Early Data Show Moderna’s Coronavirus Vaccine Is 94.5% Effective",
+      "abstract": "Moderna is the second company to report preliminary results from a large trial testing a vaccine. But there are still months to go before it will be widely available to the public.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Drugs (Pharmaceuticals)",
+        "Coronavirus (2019-nCoV)",
+        "RNA (Ribonucleic Acid)",
+        "Research",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Moderna Inc",
+        "Biomedical Advanced Research and Development Authority",
+        "Food and Drug Administration",
+        "National Institute of Allergy and Infectious Diseases",
+        "Pfizer Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Moderna Therapeutics in Cambridge, Mass.",
+          "copyright": "Tony Luong for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/11/science/00VIRUS-MODERNA1/00VIRUS-MODERNA1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/11/science/00VIRUS-MODERNA1/00VIRUS-MODERNA1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/11/science/00VIRUS-MODERNA1/00VIRUS-MODERNA1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/27ec9712-b801-5b66-a6b2-0894f45a1906",
+      "url": "https://www.nytimes.com/2020/11/21/upshot/coronavirus-test-thanksgiving-plans.html",
+      "id": 100000007465840,
+      "asset_id": 100000007465840,
+      "source": "New York Times",
+      "published_date": "2020-11-21",
+      "updated": "2020-11-23 14:53:02",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "Coronavirus (2019-nCoV);Content Type: Service;Coronavirus Risks and Safety Concerns;Tests (Medical);Thanksgiving Day;United States",
+      "column": null,
+      "byline": "By Claire Cain Miller, Katherine J. Wu and Margot Sanger-Katz",
+      "type": "Article",
+      "title": "No, a Negative Coronavirus Test Does Not Mean You Can Safely Socialize",
+      "abstract": "A negative test is helpful, scientists and doctors say. But it doesn’t mean you should skip other measures, like quarantining, masking and distancing.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Content Type: Service",
+        "Coronavirus Risks and Safety Concerns",
+        "Tests (Medical)",
+        "Thanksgiving Day"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lining up for a Covid test in Manhattan this month.",
+          "copyright": "Peter Foley/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/20/upshot/00up-testing/00up-testing-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/20/upshot/00up-testing/00up-testing-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/20/upshot/00up-testing/00up-testing-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

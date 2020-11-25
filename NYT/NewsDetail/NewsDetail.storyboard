@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="collection view cell content view" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--News Detail View Controller-->
+        <scene sceneID="yWP-fx-uZO">
+            <objects>
+                <viewController storyboardIdentifier="NewsDetailViewController" id="gTE-7m-y3Y" customClass="NewsDetailViewController" customModule="NYT" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="e95-8e-C8e">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="GkO-5s-4Yh">
+                                <rect key="frame" x="0.0" y="88" width="414" height="774"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" automaticEstimatedItemSize="YES" minimumLineSpacing="10" minimumInteritemSpacing="10" id="BfX-tM-bWK" customClass="NewsReadableLayout" customModule="NYT" customModuleProvider="target">
+                                    <size key="itemSize" width="414" height="90"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="NewsImageCollectionViewCell" id="94y-je-g7U" customClass="NewsImageCollectionViewCell" customModule="NYT" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="200"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="xWA-3M-Kqp">
+                                            <rect key="frame" x="0.0" y="0.0" width="414" height="200"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="8as-SK-xvT">
+                                                    <rect key="frame" x="107" y="0.0" width="200" height="200"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="width" constant="200" id="38d-gQ-f9N"/>
+                                                        <constraint firstAttribute="height" constant="200" id="hY6-N6-jcg"/>
+                                                    </constraints>
+                                                </imageView>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstItem="8as-SK-xvT" firstAttribute="centerY" secondItem="xWA-3M-Kqp" secondAttribute="centerY" id="7PV-Jt-5u4"/>
+                                                <constraint firstItem="8as-SK-xvT" firstAttribute="top" secondItem="xWA-3M-Kqp" secondAttribute="top" id="EQc-YD-aKC"/>
+                                                <constraint firstItem="8as-SK-xvT" firstAttribute="centerX" secondItem="xWA-3M-Kqp" secondAttribute="centerX" id="ave-AH-GOv"/>
+                                                <constraint firstAttribute="bottom" secondItem="8as-SK-xvT" secondAttribute="bottom" id="fky-HQ-lJw"/>
+                                            </constraints>
+                                        </collectionViewCellContentView>
+                                        <size key="customSize" width="414" height="200"/>
+                                        <connections>
+                                            <outlet property="newsImageview" destination="8as-SK-xvT" id="xMg-V8-YGz"/>
+                                        </connections>
+                                    </collectionViewCell>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="NewsDetailCollectionViewCell" id="JWE-fp-y4c" customClass="NewsDetailCollectionViewCell" customModule="NYT" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="210" width="414" height="50"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="ZLC-e2-RbV">
+                                            <rect key="frame" x="0.0" y="0.0" width="414" height="50"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vu1-AE-kRb">
+                                                    <rect key="frame" x="12" y="10" width="390" height="30"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstItem="vu1-AE-kRb" firstAttribute="top" secondItem="ZLC-e2-RbV" secondAttribute="top" constant="10" id="P1R-pU-mxQ"/>
+                                                <constraint firstAttribute="trailing" secondItem="vu1-AE-kRb" secondAttribute="trailing" constant="12" id="W8Y-g7-fGo"/>
+                                                <constraint firstItem="vu1-AE-kRb" firstAttribute="leading" secondItem="ZLC-e2-RbV" secondAttribute="leading" constant="12" id="jgX-j4-7Ke"/>
+                                                <constraint firstAttribute="bottom" secondItem="vu1-AE-kRb" secondAttribute="bottom" constant="10" id="lWj-iR-t7o"/>
+                                            </constraints>
+                                        </collectionViewCellContentView>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <size key="customSize" width="414" height="50"/>
+                                        <connections>
+                                            <outlet property="detailItemLabel" destination="vu1-AE-kRb" id="Bh3-ZJ-X5i"/>
+                                        </connections>
+                                    </collectionViewCell>
+                                </cells>
+                                <connections>
+                                    <outlet property="dataSource" destination="gTE-7m-y3Y" id="4zG-1S-Xu6"/>
+                                    <outlet property="delegate" destination="gTE-7m-y3Y" id="Tca-tS-Mxx"/>
+                                </connections>
+                            </collectionView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="hRm-5L-PJY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="GkO-5s-4Yh" firstAttribute="top" secondItem="hRm-5L-PJY" secondAttribute="top" id="4z3-wA-hi6"/>
+                            <constraint firstItem="GkO-5s-4Yh" firstAttribute="leading" secondItem="hRm-5L-PJY" secondAttribute="leading" id="KAY-Wg-R5Y"/>
+                            <constraint firstItem="GkO-5s-4Yh" firstAttribute="trailing" secondItem="hRm-5L-PJY" secondAttribute="trailing" id="r3H-U9-LDH"/>
+                            <constraint firstItem="GkO-5s-4Yh" firstAttribute="bottom" secondItem="hRm-5L-PJY" secondAttribute="bottom" id="xsf-D8-P2D"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="Xea-a0-gw0"/>
+                    <connections>
+                        <outlet property="newsDetailCollectionView" destination="GkO-5s-4Yh" id="dBG-Na-hUo"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="bSu-w5-4fr" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="530.43478260869574" y="26.785714285714285"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="IMD-8N-MqN">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="aoy-1Z-Es2" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="EnC-I1-xqu">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="gTE-7m-y3Y" kind="relationship" relationship="rootViewController" id="gNw-Tb-Vk4"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vSg-7E-lZc" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-379.71014492753625" y="26.785714285714285"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
